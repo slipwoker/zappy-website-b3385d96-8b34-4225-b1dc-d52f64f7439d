@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://example.com
+https://davidthebailguy-com.zappy5.app
 Stressed about jail? Our affordable bail bonds are available 24 hours to walk you through the process step by step. Call now for fast, friendly release help.
 
 ### Services
-https://example.com/services
+https://davidthebailguy-com.zappy5.app/services
 Explore our simple, transparent bail bond services designed for real people. From low cost bonds to discount options, we make freedom affordable and fast.
 
 ### About
-https://example.com/about
+https://davidthebailguy-com.zappy5.app/about
 Meet David, your clear-voice guide through the bail bond maze. We break down complex legal steps into plain English so you can act fast and worry less.
 
 ### Contact
-https://example.com/contact
+https://davidthebailguy-com.zappy5.app/contact
 Need immediate release? Reach out anytime for affordable bail bonds with zero confusing jargon. One call gets the ball rolling—contact David now.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://davidthebailguy-com.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://davidthebailguy-com.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://davidthebailguy-com.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 13329 Penn St, Whittier , California , 90602, United States 
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://davidthebailguy-com.zappy5.app/contact
+- Endpoint: https://davidthebailguy-com.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ Legal Services / Bail Bonds
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://davidthebailguy-com.zappy5.app/sitemap.xml
+- Robots: https://davidthebailguy-com.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://davidthebailguy-com.zappy5.app/llms-full.txt
